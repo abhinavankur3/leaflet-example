@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Walkhighlands">
+<metadata>
+	<desc>GPX file from Walkhighlands; file is copyright Walkhighlands and must not be publicly shared on other websites. Do not remove this notice.</desc>
+	<copyright author="Walkhighlands"><year>2019</year></copyright>
+</metadata>
+<rte>
+<name>The Ring of Steall, Mamores</name>
+<rtept lat="56.7777155993562" lon="-5.0003390094463">
+<ele>143.49196390121</ele>
+<name>ROS 001</name>
+</rtept>
+<rtept lat="56.7776935910419" lon="-4.99878837987014">
+<ele>140.250406231427</ele>
+<name>ROS 002</name>
+</rtept>
+<rtept lat="56.778024596314" lon="-4.9977702062116">
+<ele>151.670853754473</ele>
+<name>ROS 003</name>
+</rtept>
+<rtept lat="56.7780252477716" lon="-4.99650953854423">
+<ele>146.252730625677</ele>
+<name>ROS 004</name>
+</rtept>
+<rtept lat="56.778748519703" lon="-4.99480219185837">
+<ele>173.494888361216</ele>
+<name>ROS 005</name>
+</rtept>
+<rtept lat="56.7793936832994" lon="-4.99305253549492">
+<ele>192.007775259781</ele>
+<name>ROS 006</name>
+</rtept>
+<rtept lat="56.7795019793915" lon="-4.99183641917063">
+<ele>197.264856709194</ele>
+<name>ROS 007</name>
+</rtept>
+<rtept lat="56.7789824484114" lon="-4.9912367095531">
+<ele>184.555771529579</ele>
+<name>ROS 008</name>
+</rtept>
+<rtept lat="56.7784542876069" lon="-4.99099653878846">
+<ele>214.286175522804</ele>
+<name>ROS 009</name>
+</rtept>
+<rtept lat="56.7782736850314" lon="-4.99069399349972">
+<ele>206.388175522804</ele>
+<name>ROS 010</name>
+</rtept>
+<rtept lat="56.7777897414913" lon="-4.99025924380559">
+<ele>186.780383221817</ele>
+<name>ROS 011</name>
+</rtept>
+<rtept lat="56.7771903418976" lon="-4.99010347432922">
+<ele>195.792889077759</ele>
+<name>ROS 012</name>
+</rtept>
+<rtept lat="56.7763263079819" lon="-4.98902617821057">
+<ele>212.294139424133</ele>
+<name>ROS 013</name>
+</rtept>
+<rtept lat="56.7756964831573" lon="-4.98848982361625">
+<ele>230.160263357902</ele>
+<name>ROS 014</name>
+</rtept>
+<rtept lat="56.7755396838361" lon="-4.98822522463362">
+<ele>214.579128321743</ele>
+<name>ROS 015</name>
+</rtept>
+<rtept lat="56.775126575791" lon="-4.98730993486884">
+<ele>215.417008147573</ele>
+<name>ROS 016</name>
+</rtept>
+<rtept lat="56.7746413271526" lon="-4.98692918919235">
+<ele>213.847245511675</ele>
+<name>ROS 017</name>
+</rtept>
+<rtept lat="56.7734457009877" lon="-4.98442106714691">
+<ele>213.306037203112</ele>
+<name>ROS 018</name>
+</rtept>
+<rtept lat="56.77325481117" lon="-4.98372160445853">
+<ele>221.46565213089</ele>
+<name>ROS 019</name>
+</rtept>
+<rtept lat="56.7714752306092" lon="-4.98350826693784">
+<ele>221.120070705462</ele>
+<name>ROS 020</name>
+</rtept>
+<rtept lat="56.7711731983909" lon="-4.98290806509616">
+<ele>220.967995553207</ele>
+<name>ROS 021</name>
+</rtept>
+<rtept lat="56.7711727926022" lon="-4.98251188110382">
+<ele>218.789995553184</ele>
+<name>ROS 022</name>
+</rtept>
+<rtept lat="56.7707394731908" lon="-4.98161316719132">
+<ele>228.257275313306</ele>
+<name>ROS 023</name>
+</rtept>
+<rtept lat="56.7706524294499" lon="-4.98029177600099">
+<ele>228.195187537146</ele>
+<name>ROS 024</name>
+</rtept>
+<rtept lat="56.7704769561929" lon="-4.97977367574255">
+<ele>244.438226202869</ele>
+<name>ROS 025</name>
+</rtept>
+<rtept lat="56.7710691075412" lon="-4.97899231832179">
+<ele>232.928786469102</ele>
+<name>ROS 026</name>
+</rtept>
+<rtept lat="56.7713574854244" lon="-4.97726850560895">
+<ele>245.734393607581</ele>
+<name>ROS 027</name>
+</rtept>
+<rtept lat="56.7710344043721" lon="-4.97547824173994">
+<ele>287.18362542057</ele>
+<name>ROS 028</name>
+</rtept>
+<rtept lat="56.7711047725686" lon="-4.97501563653215">
+<ele>282.364427497673</ele>
+<name>ROS 029</name>
+</rtept>
+<rtept lat="56.7709987900062" lon="-4.97489920512773">
+<ele>294.553911477852</ele>
+<name>ROS 030</name>
+</rtept>
+<rtept lat="56.7710528528715" lon="-4.974705410523">
+<ele>294.817911477852</ele>
+<name>ROS 031</name>
+</rtept>
+<rtept lat="56.7708147149878" lon="-4.97474057886521">
+<ele>301.219911477828</ele>
+<name>ROS 032</name>
+</rtept>
+<rtept lat="56.77026805229" lon="-4.97320277192162">
+<ele>355.888841130638</ele>
+<name>ROS 033</name>
+</rtept>
+<rtept lat="56.7702959358567" lon="-4.97286285621003">
+<ele>347.789329228747</ele>
+<name>ROS 034</name>
+</rtept>
+<rtept lat="56.7701127154638" lon="-4.97266829809098">
+<ele>350.440424513531</ele>
+<name>ROS 035</name>
+</rtept>
+<rtept lat="56.7699415161991" lon="-4.97279880516395">
+<ele>355.957966139364</ele>
+<name>ROS 036</name>
+</rtept>
+<rtept lat="56.7694354060759" lon="-4.97225459981756">
+<ele>398.254922967863</ele>
+<name>ROS 037</name>
+</rtept>
+<rtept lat="56.768999881143" lon="-4.9718600374623">
+<ele>395.64947547431</ele>
+<name>ROS 038</name>
+</rtept>
+<rtept lat="56.7685399261148" lon="-4.97248987009851">
+<ele>436.367414127827</ele>
+<name>ROS 039</name>
+</rtept>
+<rtept lat="56.7682386964462" lon="-4.97185385962639">
+<ele>436.184149588013</ele>
+<name>ROS 040</name>
+</rtept>
+<rtept lat="56.7679894046091" lon="-4.97194217785285">
+<ele>449.410782797909</ele>
+<name>ROS 041</name>
+</rtept>
+<rtept lat="56.7677778736514" lon="-4.97210550198947">
+<ele>469.166782797909</ele>
+<name>ROS 042</name>
+</rtept>
+<rtept lat="56.767636685463" lon="-4.9713921361301">
+<ele>478.782992956781</ele>
+<name>ROS 043</name>
+</rtept>
+<rtept lat="56.7674268819033" lon="-4.97189769404124">
+<ele>484.104985167503</ele>
+<name>ROS 044</name>
+</rtept>
+<rtept lat="56.7672948955908" lon="-4.97059089945455">
+<ele>492.217182344341</ele>
+<name>ROS 045</name>
+</rtept>
+<rtept lat="56.7670610730896" lon="-4.97127460685856">
+<ele>508.444103103638</ele>
+<name>ROS 046</name>
+</rtept>
+<rtept lat="56.7669396176259" lon="-4.97056281773196">
+<ele>516.858704661465</ele>
+<name>ROS 047</name>
+</rtept>
+<rtept lat="56.7667825889992" lon="-4.97092850518359">
+<ele>530.833654834557</ele>
+<name>ROS 048</name>
+</rtept>
+<rtept lat="56.7667233600124" lon="-4.97050971533864">
+<ele>538.719177151585</ele>
+<name>ROS 049</name>
+</rtept>
+<rtept lat="56.7665525913172" lon="-4.97062225032956">
+<ele>555.175177151489</ele>
+<name>ROS 050</name>
+</rtept>
+<rtept lat="56.7664259739282" lon="-4.96971201534327">
+<ele>569.609465446949</ele>
+<name>ROS 051</name>
+</rtept>
+<rtept lat="56.7661852675258" lon="-4.96985503554309">
+<ele>586.398102357483</ele>
+<name>ROS 052</name>
+</rtept>
+<rtept lat="56.7661710547808" lon="-4.96879165206802">
+<ele>598.529901838207</ele>
+<name>ROS 053</name>
+</rtept>
+<rtept lat="56.7657862120904" lon="-4.96958944778084">
+<ele>623.531824447823</ele>
+<name>ROS 054</name>
+</rtept>
+<rtept lat="56.7656523856284" lon="-4.97064112005928">
+<ele>631.327270120478</ele>
+<name>ROS 055</name>
+</rtept>
+<rtept lat="56.7657704259013" lon="-4.97191074625057">
+<ele>625.055028309584</ele>
+<name>ROS 056</name>
+</rtept>
+<rtept lat="56.7653040072554" lon="-4.97156779743815">
+<ele>643.272456222153</ele>
+<name>ROS 057</name>
+</rtept>
+<rtept lat="56.7650002160666" lon="-4.97145375985369">
+<ele>650.787346296889</ele>
+<name>ROS 058</name>
+</rtept>
+<rtept lat="56.7647178611498" lon="-4.97085531817367">
+<ele>696.814362979841</ele>
+<name>ROS 059</name>
+</rtept>
+<rtept lat="56.7644269193238" lon="-4.97020219636439">
+<ele>738.151965769362</ele>
+<name>ROS 060</name>
+</rtept>
+<rtept lat="56.7636604899643" lon="-4.96834131103322">
+<ele>821.682244049072</ele>
+<name>ROS 061</name>
+</rtept>
+<rtept lat="56.7632817977153" lon="-4.96784332696112">
+<ele>828.829848281097</ele>
+<name>ROS 062</name>
+</rtept>
+<rtept lat="56.7621880914184" lon="-4.96809902152489">
+<ele>887.784839280248</ele>
+<name>ROS 063</name>
+</rtept>
+<rtept lat="56.7614009489114" lon="-4.96814488254563">
+<ele>903.079080732918</ele>
+<name>ROS 064</name>
+</rtept>
+<rtept lat="56.7606719105945" lon="-4.96761927344018">
+<ele>924.667601916075</ele>
+<name>ROS 065</name>
+</rtept>
+<rtept lat="56.7603565346748" lon="-4.96757637526737">
+<ele>916.262947188902</ele>
+<name>ROS 066</name>
+</rtept>
+<rtept lat="56.7592979103335" lon="-4.96635873953704">
+<ele>974.761857842922</ele>
+<name>ROS 067</name>
+</rtept>
+<rtept lat="56.7583753675508" lon="-4.96606994008137">
+<ele>944.940938575792</ele>
+<name>ROS 068</name>
+</rtept>
+<rtept lat="56.7567682187219" lon="-4.96567315228305">
+<ele>938.315644031668</ele>
+<name>ROS 069</name>
+</rtept>
+<rtept lat="56.7560108794537" lon="-4.96550541795951">
+<ele>944.711557669818</ele>
+<name>ROS 070</name>
+</rtept>
+<rtept lat="56.7554444692379" lon="-4.96520875489405">
+<ele>949.344679306555</ele>
+<name>ROS 071</name>
+</rtept>
+<rtept lat="56.7546421304012" lon="-4.96568544733888">
+<ele>897.756258600998</ele>
+<name>ROS 072</name>
+</rtept>
+<rtept lat="56.7543505703642" lon="-4.96568044989316">
+<ele>901.497345553208</ele>
+<name>ROS 073</name>
+</rtept>
+<rtept lat="56.754190990881" lon="-4.96615382707025">
+<ele>904.651259985733</ele>
+<name>ROS 074</name>
+</rtept>
+<rtept lat="56.7537567916447" lon="-4.96653354010452">
+<ele>866.728614181566</ele>
+<name>ROS 075</name>
+</rtept>
+<rtept lat="56.753241043039" lon="-4.96660084075601">
+<ele>854.52440846951</ele>
+<name>ROS 076</name>
+</rtept>
+<rtept lat="56.7529742150104" lon="-4.96742569937514">
+<ele>859.074673009443</ele>
+<name>ROS 077</name>
+</rtept>
+<rtept lat="56.7525627976964" lon="-4.96850910162497">
+<ele>879.634911865711</ele>
+<name>ROS 078</name>
+</rtept>
+<rtept lat="56.7517832042884" lon="-4.96927544582638">
+<ele>927.517061453819</ele>
+<name>ROS 079</name>
+</rtept>
+<rtept lat="56.7509149690708" lon="-4.9694048594953">
+<ele>966.889908135462</ele>
+<name>ROS 080</name>
+</rtept>
+<rtept lat="56.7508378092313" lon="-4.97098250919966">
+<ele>942.945660385799</ele>
+<name>ROS 081</name>
+</rtept>
+<rtept lat="56.7502684731014" lon="-4.97246725941073">
+<ele>916.60096945219</ele>
+<name>ROS 082</name>
+</rtept>
+<rtept lat="56.749686431617" lon="-4.97261921698147">
+<ele>882.751742144871</ele>
+<name>ROS 083</name>
+</rtept>
+<rtept lat="56.7485365307233" lon="-4.97398600350661">
+<ele>847.094591172314</ele>
+<name>ROS 084</name>
+</rtept>
+<rtept lat="56.7472334355385" lon="-4.97555653381818">
+<ele>878.58883372922</ele>
+<name>ROS 085</name>
+</rtept>
+<rtept lat="56.7468978962379" lon="-4.97677165865026">
+<ele>884.589092610598</ele>
+<name>ROS 086</name>
+</rtept>
+<rtept lat="56.7462654226592" lon="-4.97799924217552">
+<ele>849.608678948307</ele>
+<name>ROS 087</name>
+</rtept>
+<rtept lat="56.7452801893278" lon="-4.98074636934662">
+<ele>824.387960200489</ele>
+<name>ROS 088</name>
+</rtept>
+<rtept lat="56.7448143990518" lon="-4.98141123372502">
+<ele>825.378743715048</ele>
+<name>ROS 089</name>
+</rtept>
+<rtept lat="56.7439253499758" lon="-4.98137675486764">
+<ele>876.737861651134</ele>
+<name>ROS 090</name>
+</rtept>
+<rtept lat="56.7429362671509" lon="-4.98262987248332">
+<ele>943.199355688095</ele>
+<name>ROS 091</name>
+</rtept>
+<rtept lat="56.7422853148209" lon="-4.98338794753969">
+<ele>1000.38826788239</ele>
+<name>ROS 092</name>
+</rtept>
+<rtept lat="56.7420019047726" lon="-4.98345543574763">
+<ele>1009.35605288916</ele>
+<name>ROS 093</name>
+</rtept>
+<rtept lat="56.7416006238184" lon="-4.98493500128047">
+<ele>982.389355658442</ele>
+<name>ROS 094</name>
+</rtept>
+<rtept lat="56.7415657927487" lon="-4.98597581602131">
+<ele>964.301792049801</ele>
+<name>ROS 095</name>
+</rtept>
+<rtept lat="56.7418209859076" lon="-4.98729155812182">
+<ele>956.797510439396</ele>
+<name>ROS 096</name>
+</rtept>
+<rtept lat="56.7415113658842" lon="-4.98989390942959">
+<ele>898.770640611267</ele>
+<name>ROS 097</name>
+</rtept>
+<rtept lat="56.7417020799042" lon="-4.99183430037027">
+<ele>890.302115697873</ele>
+<name>ROS 098</name>
+</rtept>
+<rtept lat="56.7422021447098" lon="-4.99365538706528">
+<ele>878.153438241672</ele>
+<name>ROS 099</name>
+</rtept>
+<rtept lat="56.7425037614495" lon="-4.99529878191018">
+<ele>874.8910327564</ele>
+<name>ROS 100</name>
+</rtept>
+<rtept lat="56.7430776077527" lon="-4.99692790596026">
+<ele>883.238321051693</ele>
+<name>ROS 101</name>
+</rtept>
+<rtept lat="56.7434325934498" lon="-4.99861160930988">
+<ele>906.396567309284</ele>
+<name>ROS 102</name>
+</rtept>
+<rtept lat="56.7442116602785" lon="-5.00157076485714">
+<ele>976.572807269859</ele>
+<name>ROS 103</name>
+</rtept>
+<rtept lat="56.7450270323135" lon="-5.00199572151702">
+<ele>996.150873528743</ele>
+<name>ROS 104</name>
+</rtept>
+<rtept lat="56.7462137542814" lon="-5.00444779423507">
+<ele>919.987280506132</ele>
+<name>ROS 105</name>
+</rtept>
+<rtept lat="56.7467167629115" lon="-5.00572965313431">
+<ele>920.65334303472</ele>
+<name>ROS 106</name>
+</rtept>
+<rtept lat="56.747479841966" lon="-5.00586261992626">
+<ele>911.082894019604</ele>
+<name>ROS 107</name>
+</rtept>
+<rtept lat="56.7487156749485" lon="-5.00545749832762">
+<ele>952.19163616457</ele>
+<name>ROS 108</name>
+</rtept>
+<rtept lat="56.7491374225924" lon="-5.005599181771">
+<ele>970.589326602697</ele>
+<name>ROS 109</name>
+</rtept>
+<rtept lat="56.7496489512352" lon="-5.00529812601199">
+<ele>948.773052889061</ele>
+<name>ROS 110</name>
+</rtept>
+<rtept lat="56.7502587314507" lon="-5.00502291040149">
+<ele>946.727824447966</ele>
+<name>ROS 111</name>
+</rtept>
+<rtept lat="56.7514961992273" lon="-5.00495981981086">
+<ele>911.768839668059</ele>
+<name>ROS 112</name>
+</rtept>
+<rtept lat="56.752146391813" lon="-5.00526374905758">
+<ele>929.061094073105</ele>
+<name>ROS 113</name>
+</rtept>
+<rtept lat="56.7534981414628" lon="-5.00456185047582">
+<ele>965.364692288494</ele>
+<name>ROS 114</name>
+</rtept>
+<rtept lat="56.7540498385158" lon="-5.00402997244132">
+<ele>982.064225098658</ele>
+<name>ROS 115</name>
+</rtept>
+<rtept lat="56.7547010042206" lon="-5.00285805586331">
+<ele>1020.810764874</ele>
+<name>ROS 116</name>
+</rtept>
+<rtept lat="56.7558451416938" lon="-5.00379542020348">
+<ele>1075.73861379375</ele>
+<name>ROS 117</name>
+</rtept>
+<rtept lat="56.7559876322683" lon="-5.00362680662409">
+<ele>1078.34085784283</ele>
+<name>ROS 118</name>
+</rtept>
+<rtept lat="56.7563663931853" lon="-5.00596105889753">
+<ele>1053.33099776185</ele>
+<name>ROS 119</name>
+</rtept>
+<rtept lat="56.7569981060755" lon="-5.0072355844094">
+<ele>1046.39479019942</ele>
+<name>ROS 120</name>
+</rtept>
+<rtept lat="56.7579509101404" lon="-5.00790582342932">
+<ele>1021.10719383438</ele>
+<name>ROS 121</name>
+</rtept>
+<rtept lat="56.7591964567078" lon="-5.00894155093538">
+<ele>967.992033860648</ele>
+<name>ROS 122</name>
+</rtept>
+<rtept lat="56.7599061018723" lon="-5.01067250815814">
+<ele>914.291955724168</ele>
+<name>ROS 123</name>
+</rtept>
+<rtept lat="56.7601763586123" lon="-5.01380846792536">
+<ele>837.418963513374</ele>
+<name>ROS 124</name>
+</rtept>
+<rtept lat="56.7609818379261" lon="-5.01484516706213">
+<ele>790.64799107691</ele>
+<name>ROS 125</name>
+</rtept>
+<rtept lat="56.7614738708753" lon="-5.01718894611193">
+<ele>719.434844085312</ele>
+<name>ROS 126</name>
+</rtept>
+<rtept lat="56.7617917093855" lon="-5.01876268477077">
+<ele>657.153237334633</ele>
+<name>ROS 127</name>
+</rtept>
+<rtept lat="56.7622260366547" lon="-5.02205608330185">
+<ele>524.383564683437</ele>
+<name>ROS 128</name>
+</rtept>
+<rtept lat="56.762900976369" lon="-5.02317253744259">
+<ele>455.614553939533</ele>
+<name>ROS 129</name>
+</rtept>
+<rtept lat="56.7631894762174" lon="-5.02656236825936">
+<ele>345.246844085312</ele>
+<name>ROS 130</name>
+</rtept>
+<rtept lat="56.7636501416768" lon="-5.02998413796321">
+<ele>220.218917775011</ele>
+<name>ROS 131</name>
+</rtept>
+<rtept lat="56.764416135485" lon="-5.03263846291886">
+<ele>163.963683036798</ele>
+<name>ROS 132</name>
+</rtept>
+<rtept lat="56.7653216393832" lon="-5.03321565194675">
+<ele>156.437328482699</ele>
+<name>ROS 133</name>
+</rtept>
+<rtept lat="56.765994676417" lon="-5.03359405665576">
+<ele>129.103946830606</ele>
+<name>ROS 134</name>
+</rtept>
+<rtept lat="56.7666241061187" lon="-5.03454511685307">
+<ele>106.10055581944</ele>
+<name>ROS 135</name>
+</rtept>
+<rtept lat="56.7677735159256" lon="-5.03424180628047">
+<ele>83.8602771636605</ele>
+<name>ROS 136</name>
+</rtept>
+<rtept lat="56.7687112415075" lon="-5.03471365456886">
+<ele>62.6410740479708</ele>
+<name>ROS 137</name>
+</rtept>
+<rtept lat="56.7694388661448" lon="-5.03488045462647">
+<ele>59.1394802793682</ele>
+<name>ROS 138</name>
+</rtept>
+<rtept lat="56.7699726666084" lon="-5.0356978534987">
+<ele>52.5803571505189</ele>
+<name>ROS 139</name>
+</rtept>
+<rtept lat="56.7701145940768" lon="-5.0367717173281">
+<ele>50.2900386952162</ele>
+<name>ROS 140</name>
+</rtept>
+<rtept lat="56.7706390408053" lon="-5.03695815742989">
+<ele>50.5836815447032</ele>
+<name>ROS 141</name>
+</rtept>
+<rtept lat="56.7707986523478" lon="-5.03608871092598">
+<ele>52.9054036350012</ele>
+<name>ROS 142</name>
+</rtept>
+<rtept lat="56.7708015874194" lon="-5.03353194480372">
+<ele>56.4311257252932</ele>
+<name>ROS 143</name>
+</rtept>
+<rtept lat="56.7708369868366" lon="-5.02923111543203">
+<ele>60.5909613047898</ele>
+<name>ROS 144</name>
+</rtept>
+<rtept lat="56.7708872954961" lon="-5.02797467659369">
+<ele>58.2025602662176</ele>
+<name>ROS 145</name>
+</rtept>
+<rtept lat="56.7711452627016" lon="-5.02671695478185">
+<ele>59</ele>
+<name>ROS 146</name>
+</rtept>
+<rtept lat="56.7714636298394" lon="-5.02459972835759">
+<ele>65.1402875493526</ele>
+<name>ROS 147</name>
+</rtept>
+<rtept lat="56.7714479809206" lon="-5.02402223492389">
+<ele>65.963007789278</ele>
+<name>ROS 148</name>
+</rtept>
+<rtept lat="56.7716934248592" lon="-5.02287150616661">
+<ele>73.3466893339634</ele>
+<name>ROS 149</name>
+</rtept>
+<rtept lat="56.7714664840929" lon="-5.02162875255783">
+<ele>68.0246369105935</ele>
+<name>ROS 150</name>
+</rtept>
+<rtept lat="56.7706644011632" lon="-5.02086198463217">
+<ele>82.5252842069149</ele>
+<name>ROS 151</name>
+</rtept>
+<rtept lat="56.7707731112611" lon="-5.01923209141245">
+<ele>93.7267246866941</ele>
+<name>ROS 152</name>
+</rtept>
+<rtept lat="56.7711273445303" lon="-5.01726176492406">
+<ele>95.6328433687806</ele>
+<name>ROS 153</name>
+</rtept>
+<rtept lat="56.7710154235488" lon="-5.01575819305134">
+<ele>92.1893210517287</ele>
+<name>ROS 154</name>
+</rtept>
+<rtept lat="56.7715681466985" lon="-5.01416388983534">
+<ele>89.337079240799</ele>
+<name>ROS 155</name>
+</rtept>
+<rtept lat="56.772130468245" lon="-5.01339865811475">
+<ele>100.194164420486</ele>
+<name>ROS 156</name>
+</rtept>
+<rtept lat="56.7722529256995" lon="-5.01283223529243">
+<ele>107.363573248339</ele>
+<name>ROS 157</name>
+</rtept>
+<rtept lat="56.7733139950432" lon="-5.01147666905333">
+<ele>119.919893195724</ele>
+<name>ROS 158</name>
+</rtept>
+<rtept lat="56.7737799452447" lon="-5.01081169075663">
+<ele>117.427965393311</ele>
+<name>ROS 159</name>
+</rtept>
+<rtept lat="56.7739319966526" lon="-5.01024760639889">
+<ele>110.313321797776</ele>
+<name>ROS 160</name>
+</rtept>
+<rtept lat="56.7755012149346" lon="-5.00832029526109">
+<ele>133.929004834568</ele>
+<name>ROS 161</name>
+</rtept>
+<rtept lat="56.7757678811889" lon="-5.0075132219222">
+<ele>139.716319559646</ele>
+<name>ROS 162</name>
+</rtept>
+<rtept lat="56.7766143892595" lon="-5.00603215753685">
+<ele>142.135274925518</ele>
+<name>ROS 163</name>
+</rtept>
+<rtept lat="56.776820862635" lon="-5.00567047378809">
+<ele>132.197165912604</ele>
+<name>ROS 164</name>
+</rtept>
+<rtept lat="56.7773742526213" lon="-5.00342747726246">
+<ele>132.170530106354</ele>
+<name>ROS 165</name>
+</rtept>
+<rtept lat="56.7772637186711" lon="-5.00268023213577">
+<ele>128.323126471353</ele>
+<name>ROS 166</name>
+</rtept>
+<rtept lat="56.7773929662423" lon="-5.00224031240316">
+<ele>134.548087030125</ele>
+<name>ROS 167</name>
+</rtept>
+<rtept lat="56.7773502932571" lon="-5.00113829291116">
+<ele>135.278488814688</ele>
+<name>ROS 168</name>
+</rtept>
+<rtept lat="56.7777052981021" lon="-5.00035619686233">
+<ele>143.293963901234</ele>
+<name>ROS 169</name>
+</rtept>
+</rte>
+</gpx>
