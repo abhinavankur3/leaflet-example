@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Quick Start - Leaflet</title>
+    <title>Leaflet</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,8 +16,8 @@
       crossorigin=""
     ></script>
   </head>
-  <!-- <body onload="getMarkers()"> -->
-  <body>
+  <body onload="getMarkers()">
+    <!-- <body> -->
     <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js"></script>
     <div>
       <div id="mapid" style="height: 500; width: 500;" tabindex="0"></div>
@@ -33,11 +33,17 @@
         accessToken: "pk.eyJ1IjoiYWJoaW5hdmFua3VyIiwiYSI6ImNrNWp1cDdpejA2dmwzZXFjZW50ZHhidTcifQ.OTVWk2i9R5QLWuqLomAH7g"
       }).addTo(mymap);
 
-      var runLayer = omnivore
+      var route1 = omnivore
         .gpx("Tour_96690.gpx")
         .on("ready", function() {
-          console.log("ready");
-          mymap.fitBounds(runLayer.getBounds());
+          mymap.fitBounds(route1.getBounds());
+        })
+        .addTo(mymap);
+
+      var route2 = omnivore
+        .gpx("ringofsteall.gpx")
+        .on("ready", function() {
+          mymap.fitBounds(route2.getBounds());
         })
         .addTo(mymap);
 
